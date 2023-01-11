@@ -28,6 +28,9 @@ git branch new_branch from_this_branch - создание ветки из выб
 git branch -d branch_name - удаление локальной ветки
 git checkout -b new_branch - создание ветки с переключением
 
+git merge branch_name - слияние с выбранной веткой
+git rebase branch_name - передвинуть начало ветки с другого коммита от созданной branch_name
+
 ssh-keygen - генерация ssh-ключа
 
 Урок 8 8:26
