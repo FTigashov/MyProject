@@ -25,6 +25,7 @@ git log --oneline - вывод истории сокращенно
 
 git branch -M new_name - переименование текущей ветки 
 git branch new_branch from_this_branch - создание ветки из выбранной
+git branch -d branch_name - удаление локальной ветки
 git checkout -b new_branch - создание ветки с переключением
 
 ssh-keygen - генерация ssh-ключа
