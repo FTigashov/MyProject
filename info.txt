@@ -48,6 +48,7 @@ git stash - сохранение изменений до их отслежива
 git stash list - отображение всех stash
 git stash push file_name - добавление доп. изменений в хранение изменений
 git stash pop stash@{num} - применение stash
+git stash clear - очистить stash
 
 ssh-keygen - генерация ssh-ключа
 
