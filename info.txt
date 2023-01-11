@@ -54,7 +54,8 @@ git merge branch_name --squash - склеивание коммитов с объ
 git rebase -i HEAD~3 - склеивание коммитов / -i - интерактивный режим / HEAD~3 - откуда начать и сколько склеить
 
 git cherry-pick hash-commit - склеивание с выбранным коммитом
-
+git cherry-pick branch_name - перенос последнего коммита с введенной ветки
+git cherry-pick ..branch_name - перенос всех коммитов выбранной ветки
 ssh-keygen - генерация ssh-ключа
 
 Урок 8 8:26
