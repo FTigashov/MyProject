@@ -23,6 +23,9 @@ git restore - сброс состояния файла на указанное
 
 git log --oneline - вывод истории сокращенно
 
+git blame file_name - посмотреть авторов строк в файле
+git diff - посмотреть внесенные изменения до коммита
+
 git branch -M new_name - переименование текущей ветки 
 git branch new_branch from_this_branch - создание ветки из выбранной
 git branch -d branch_name - удаление локальной ветки
