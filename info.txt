@@ -53,6 +53,8 @@ git stash clear - очистить stash
 git merge branch_name --squash - склеивание коммитов с объединением в ветку, но только с отслеживанием
 git rebase -i HEAD~3 - склеивание коммитов / -i - интерактивный режим / HEAD~3 - откуда начать и сколько склеить
 
+git cherry-pick hash-commit - склеивание с выбранным коммитом
+
 ssh-keygen - генерация ssh-ключа
 
 Урок 8 8:26
