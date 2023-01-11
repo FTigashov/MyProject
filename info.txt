@@ -12,6 +12,7 @@
 git remote -v - отображение удаленных репозиториев с возможностью fetch и push
 git remote add rep_name https://URL - добавление удаленного репозитория
 git remote remove rep_name - удаление удаленного репозитория
+git remote -d remote_name branch_name - удаление ветки на облачном репозитории
 
 .gitkeep - хранит пустые директории в общем репозитории.
 .gitignore - игнорирует некоторые файлы от индексирования.
