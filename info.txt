@@ -39,6 +39,7 @@ git tag version - добавление тега на коммит
 git tag / git tag --list/-l - просмотр всех тегов
 git tag -d chosen_tag - удаление выбранного тега
 git push --tags - загрузка тегов на удаленный репозиторий
+git push --delete origin chosen_tag - удаление тега из удаленного репозитория
 
 ssh-keygen - генерация ssh-ключа
 
